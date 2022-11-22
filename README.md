@@ -1,4 +1,4 @@
-# docker-symfony-setip
+# docker-symfony-setup
 - Symfony CLI installed
 - Composer installed
 - Git installed
